@@ -22,7 +22,7 @@
 ![Log10](images/log10.png)
 ## Heatmap
 ![Heatmap](images/heatmap.png)
-## Heat Number
-![Heatmap](images/heatnum.png)
+## Hit Number
+![Heatmap](images/hitnum.png)
 
 ## Вывод 
